@@ -15,7 +15,7 @@ public class BAW {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("La nota de la exposicion es: 5.0");
+       System.out.println("La nota de la exposicion es: 50.0"); //By: AlexeDios
     }
     
 }
